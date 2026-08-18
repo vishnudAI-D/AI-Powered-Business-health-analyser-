@@ -1,0 +1,1805 @@
+{
+  "business_profile": {
+    "category": "micro",
+    "city": "Salem",
+    "email": "owner@chinnutextiles.in",
+    "established_year": 2018,
+    "gst_registered": true,
+    "investment_lakhs": 18.5,
+    "is_rural": true,
+    "is_women_owned": true,
+    "name": "Chinnu Textiles & Handlooms",
+    "owner_name": "Chinnu",
+    "phone": "+91 98765 43210",
+    "sector": "textiles",
+    "state": "Tamil Nadu",
+    "turnover_lakhs": 68.0,
+    "udyam_registered": true
+  },
+  "custom_datasets": [
+    {
+      "colsCount": 7,
+      "columns": [
+        "Rank",
+        "Restaurant",
+        "Sales",
+        "Average Check",
+        "City",
+        "State",
+        "Meals Served"
+      ],
+      "dataQualityScore": 100,
+      "id": "custom_1787041668062",
+      "name": "Independence100.csv",
+      "rows": [
+        {
+          "Average Check": 40,
+          "City": "New York",
+          "Meals Served": 469803,
+          "Rank": 1,
+          "Restaurant": "Carmine's (Times Square)",
+          "Sales": 39080335,
+          "State": "N.Y."
+        },
+        {
+          "Average Check": 43,
+          "City": "Orlando ",
+          "Meals Served": 820819,
+          "Rank": 2,
+          "Restaurant": "The Boathouse Orlando",
+          "Sales": 35218364,
+          "State": "Fla."
+        },
+        {
+          "Average Check": 33,
+          "City": "Washington",
+          "Meals Served": 892830,
+          "Rank": 3,
+          "Restaurant": "Old Ebbitt Grill",
+          "Sales": 29104017,
+          "State": "D.C."
+        },
+        {
+          "Average Check": 90,
+          "City": "New York",
+          "Meals Served": 198500,
+          "Rank": 4,
+          "Restaurant": "LAVO Italian Restaurant & Nightclub",
+          "Sales": 26916180,
+          "State": "N.Y."
+        },
+        {
+          "Average Check": 62,
+          "City": "New York",
+          "Meals Served": 403000,
+          "Rank": 5,
+          "Restaurant": "Bryant Park Grill & Cafe",
+          "Sales": 26900000,
+          "State": "N.Y."
+        },
+        {
+          "Average Check": 80,
+          "City": "Chicago",
+          "Meals Served": 348567,
+          "Rank": 6,
+          "Restaurant": "Gibsons Bar & Steakhouse",
+          "Sales": 25409952,
+          "State": "Ill."
+        },
+        {
+          "Average Check": 103,
+          "City": "Las Vegas",
+          "Meals Served": 246054,
+          "Rank": 7,
+          "Restaurant": "Top of the World at the STRAT ",
+          "Sales": 25233543,
+          "State": "Nev."
+        },
+        {
+          "Average Check": 99,
+          "City": "Chicago",
+          "Meals Served": 210832,
+          "Rank": 8,
+          "Restaurant": "Maple & Ash",
+          "Sales": 24837595,
+          "State": "Ill."
+        },
+        {
+          "Average Check": 87,
+          "City": "New York",
+          "Meals Served": 519000,
+          "Rank": 9,
+          "Restaurant": "Balthazar",
+          "Sales": 24547800,
+          "State": "N.Y."
+        },
+        {
+          "Average Check": 107,
+          "City": "New York",
+          "Meals Served": 257364,
+          "Rank": 10,
+          "Restaurant": "Smith & Wollensky",
+          "Sales": 24501000,
+          "State": "N.Y."
+        },
+        {
+          "Average Check": 75,
+          "City": "Raleigh",
+          "Meals Served": 315000,
+          "Rank": 11,
+          "Restaurant": "Angus Barn",
+          "Sales": 24268160,
+          "State": "N.C."
+        },
+        {
+          "Average Check": 135,
+          "City": "Miami Beach",
+          "Meals Served": 206000,
+          "Rank": 12,
+          "Restaurant": "Prime 112",
+          "Sales": 23800000,
+          "State": "Fla."
+        },
+        {
+          "Average Check": 23660000,
+          "City": 86,
+          "Meals Served": "D.C.",
+          "Rank": 13,
+          "Restaurant": "Joe's Seafood",
+          "Sales": "Prime Steak & Stone Crab",
+          "State": "Washington"
+        },
+        {
+          "Average Check": 23,
+          "City": "New York",
+          "Meals Served": 914500,
+          "Rank": 14,
+          "Restaurant": "Junior's (Times Square)",
+          "Sales": 23640652,
+          "State": "N.Y."
+        },
+        {
+          "Average Check": 33,
+          "City": "Washington",
+          "Meals Served": 700861,
+          "Rank": 15,
+          "Restaurant": "The Hamilton",
+          "Sales": 23138062,
+          "State": "D.C."
+        },
+        {
+          "Average Check": 22981600,
+          "City": 91,
+          "Meals Served": "Ill.",
+          "Rank": 16,
+          "Restaurant": "Joe's Seafood",
+          "Sales": "Prime Steak & Stone Crab",
+          "State": "Chicago"
+        },
+        {
+          "Average Check": 22859400,
+          "City": 81,
+          "Meals Served": "Nev.",
+          "Rank": 17,
+          "Restaurant": "Joe's Seafood",
+          "Sales": "Prime Steak & Stone Crab",
+          "State": "Las Vegas"
+        },
+        {
+          "Average Check": 108,
+          "City": "Chicago",
+          "Meals Served": 252962,
+          "Rank": 18,
+          "Restaurant": "Gibsons Italia",
+          "Sales": 22749232,
+          "State": "Ill."
+        },
+        {
+          "Average Check": 98,
+          "City": "Miami",
+          "Meals Served": 265000,
+          "Rank": 19,
+          "Restaurant": "Komodo",
+          "Sales": 22500000,
+          "State": "Fla."
+        },
+        {
+          "Average Check": 67,
+          "City": "New York",
+          "Meals Served": 221059,
+          "Rank": 20,
+          "Restaurant": "Buddakan",
+          "Sales": 22395577,
+          "State": "N.Y."
+        },
+        {
+          "Average Check": 119,
+          "City": "Las Vegas",
+          "Meals Served": 190000,
+          "Rank": 21,
+          "Restaurant": "Bazaar Meat by Jose Andres",
+          "Sales": 22181607,
+          "State": "Nev."
+        },
+        {
+          "Average Check": 149,
+          "City": "Las Vegas",
+          "Meals Served": 145700,
+          "Rank": 22,
+          "Restaurant": "SW Steakhouse",
+          "Sales": 21523650,
+          "State": "Nev."
+        },
+        {
+          "Average Check": 99,
+          "City": "Indianapolis",
+          "Meals Served": 192774,
+          "Rank": 23,
+          "Restaurant": "St. Elmo Steak House",
+          "Sales": 21422141,
+          "State": "Ind."
+        },
+        {
+          "Average Check": 102,
+          "City": "Chicago",
+          "Meals Served": 202900,
+          "Rank": 24,
+          "Restaurant": "RPM Steak",
+          "Sales": 20853300,
+          "State": "Ill."
+        },
+        {
+          "Average Check": 76,
+          "City": "Las Vegas",
+          "Meals Served": 319200,
+          "Rank": 25,
+          "Restaurant": "Mon Ami Gabi",
+          "Sales": 20120210,
+          "State": "Nev."
+        },
+        {
+          "Average Check": 81,
+          "City": "Oak Brook",
+          "Meals Served": 276444,
+          "Rank": 26,
+          "Restaurant": "Gibsons Bar & Steakhouse",
+          "Sales": 19831818,
+          "State": "Ill."
+        },
+        {
+          "Average Check": 48,
+          "City": "Orlando ",
+          "Meals Served": 417500,
+          "Rank": 27,
+          "Restaurant": "Paddlefish",
+          "Sales": 19829500,
+          "State": "Fla."
+        },
+        {
+          "Average Check": 55,
+          "City": "Houston",
+          "Meals Served": 375241,
+          "Rank": 28,
+          "Restaurant": "Taste of Texas",
+          "Sales": 19530159,
+          "State": "Texas"
+        },
+        {
+          "Average Check": 35,
+          "City": "Philadelphia",
+          "Meals Served": 486219,
+          "Rank": 29,
+          "Restaurant": "Parc",
+          "Sales": 19379153,
+          "State": "Pa."
+        },
+        {
+          "Average Check": 48,
+          "City": "Wheeling",
+          "Meals Served": 625907,
+          "Rank": 30,
+          "Restaurant": "Bob Chinn's Crab House",
+          "Sales": 18687601,
+          "State": "Ill."
+        },
+        {
+          "Average Check": 115,
+          "City": "New York",
+          "Meals Served": 165148,
+          "Rank": 31,
+          "Restaurant": "Quality Meats",
+          "Sales": 18678000,
+          "State": "N.Y."
+        },
+        {
+          "Average Check": 194,
+          "City": "New York",
+          "Meals Served": 95000,
+          "Rank": 32,
+          "Restaurant": "Del Posto",
+          "Sales": 18625033,
+          "State": "N.Y."
+        },
+        {
+          "Average Check": 57,
+          "City": "Ft. Lauderdale",
+          "Meals Served": 409752,
+          "Rank": 33,
+          "Restaurant": "Shooters Waterfront",
+          "Sales": 18601433,
+          "State": "Fla."
+        },
+        {
+          "Average Check": 36,
+          "City": "Los Angeles",
+          "Meals Served": 322562,
+          "Rank": 34,
+          "Restaurant": "Bottega Louie",
+          "Sales": 18521000,
+          "State": "Calif."
+        },
+        {
+          "Average Check": 38,
+          "City": "Washington",
+          "Meals Served": 363609,
+          "Rank": 35,
+          "Restaurant": "Le Diplomate",
+          "Sales": 18490719,
+          "State": "D.C."
+        },
+        {
+          "Average Check": 79,
+          "City": "Rosemont",
+          "Meals Served": 252419,
+          "Rank": 36,
+          "Restaurant": "Gibsons Bar & Steakhouse",
+          "Sales": 18483056,
+          "State": "Ill."
+        },
+        {
+          "Average Check": 97,
+          "City": "Las Vegas",
+          "Meals Served": 115500,
+          "Rank": 37,
+          "Restaurant": "Lavo Italian Restaurant & Lounge",
+          "Sales": 18386262,
+          "State": "Nev."
+        },
+        {
+          "Average Check": 173,
+          "City": "Las Vegas",
+          "Meals Served": 113600,
+          "Rank": 38,
+          "Restaurant": "Prime Steakhouse",
+          "Sales": 18248030,
+          "State": "Nev."
+        },
+        {
+          "Average Check": 54,
+          "City": "Bal Harbour",
+          "Meals Served": 256830,
+          "Rank": 39,
+          "Restaurant": "Makoto",
+          "Sales": 18216906,
+          "State": "Fla."
+        },
+        {
+          "Average Check": 35,
+          "City": "Daly City",
+          "Meals Served": 473492,
+          "Rank": 40,
+          "Restaurant": "Original Joe's Westlake",
+          "Sales": 18159612,
+          "State": "Calif."
+        },
+        {
+          "Average Check": 72,
+          "City": "Chicago",
+          "Meals Served": 270000,
+          "Rank": 41,
+          "Restaurant": "Shaw's Crab House",
+          "Sales": 17965500,
+          "State": "Ill."
+        },
+        {
+          "Average Check": 17910045,
+          "City": 33,
+          "Meals Served": "D.C.",
+          "Rank": 42,
+          "Restaurant": "Founding Farmers (Washington",
+          "Sales": "D.C.)",
+          "State": "Washington"
+        },
+        {
+          "Average Check": 22,
+          "City": "New York",
+          "Meals Served": 798000,
+          "Rank": 43,
+          "Restaurant": "Junior's (49th Street)",
+          "Sales": 17834390,
+          "State": "N.Y."
+        },
+        {
+          "Average Check": 106,
+          "City": "Atlanta",
+          "Meals Served": 168000,
+          "Rank": 44,
+          "Restaurant": "Chops Lobster Bar",
+          "Sales": 17816450,
+          "State": "Ga."
+        },
+        {
+          "Average Check": 95,
+          "City": "Chicago",
+          "Meals Served": 211000,
+          "Rank": 45,
+          "Restaurant": "Chicago Cut Steakhouse",
+          "Sales": 17743720,
+          "State": "Ill."
+        },
+        {
+          "Average Check": 119,
+          "City": "Chicago",
+          "Meals Served": 195343,
+          "Rank": 46,
+          "Restaurant": "Swift & Sons",
+          "Sales": 17637400,
+          "State": "Ill."
+        },
+        {
+          "Average Check": 29,
+          "City": "Coalinga",
+          "Meals Served": 611928,
+          "Rank": 47,
+          "Restaurant": "Harris Ranch Inn & Restaurant",
+          "Sales": 17599468,
+          "State": "Calif."
+        },
+        {
+          "Average Check": 100,
+          "City": "New York",
+          "Meals Served": 198200,
+          "Rank": 48,
+          "Restaurant": "Sparks Steak House",
+          "Sales": 17519030,
+          "State": "N.Y."
+        },
+        {
+          "Average Check": 95,
+          "City": "New York",
+          "Meals Served": 177337,
+          "Rank": 49,
+          "Restaurant": "Quality Italian",
+          "Sales": 17519000,
+          "State": "N.Y."
+        },
+        {
+          "Average Check": 19,
+          "City": "Frankenmuth",
+          "Meals Served": 899284,
+          "Rank": 50,
+          "Restaurant": "Frankenmuth Bavarian Inn",
+          "Sales": 17388751,
+          "State": "Mich."
+        },
+        {
+          "Average Check": 76,
+          "City": "New York",
+          "Meals Served": 250000,
+          "Rank": 51,
+          "Restaurant": "Tavern on the Green",
+          "Sales": 17212800,
+          "State": "N.Y."
+        },
+        {
+          "Average Check": 106,
+          "City": "Boston",
+          "Meals Served": 160762,
+          "Rank": 52,
+          "Restaurant": "Abe & Louie's",
+          "Sales": 17063477,
+          "State": "Mass."
+        },
+        {
+          "Average Check": 98,
+          "City": "Miami",
+          "Meals Served": 182000,
+          "Rank": 53,
+          "Restaurant": "Rusty Pelican",
+          "Sales": 16981741,
+          "State": "Fla."
+        },
+        {
+          "Average Check": 90,
+          "City": "New York",
+          "Meals Served": 187970,
+          "Rank": 54,
+          "Restaurant": "Beauty & Essex (New York City)",
+          "Sales": 16364050,
+          "State": "N.Y."
+        },
+        {
+          "Average Check": 62,
+          "City": "New York",
+          "Meals Served": 296000,
+          "Rank": 55,
+          "Restaurant": "Grand Central Oyster Bar",
+          "Sales": 16304883,
+          "State": "N.Y."
+        },
+        {
+          "Average Check": 103,
+          "City": "Las Vegas",
+          "Meals Served": 133000,
+          "Rank": 56,
+          "Restaurant": "Delmonico Steakhouse",
+          "Sales": 16154000,
+          "State": "Nev."
+        },
+        {
+          "Average Check": 83,
+          "City": "Portland",
+          "Meals Served": 268062,
+          "Rank": 57,
+          "Restaurant": "Portland City Grill",
+          "Sales": 16111510,
+          "State": "Ore."
+        },
+        {
+          "Average Check": 17,
+          "City": "Frankenmuth",
+          "Meals Served": 959026,
+          "Rank": 58,
+          "Restaurant": "Zehnder's of Frankenmuth",
+          "Sales": 16063684,
+          "State": "Mich."
+        },
+        {
+          "Average Check": 43,
+          "City": "Ft. Lauderdale",
+          "Meals Served": 371000,
+          "Rank": 59,
+          "Restaurant": "The Rustic Inn",
+          "Sales": 15700000,
+          "State": "Fla."
+        },
+        {
+          "Average Check": 59,
+          "City": "Chicago",
+          "Meals Served": 287900,
+          "Rank": 60,
+          "Restaurant": "Harry Caray's Italian Steakhouse",
+          "Sales": 15680000,
+          "State": "Ill."
+        },
+        {
+          "Average Check": 97,
+          "City": "New York",
+          "Meals Served": 168301,
+          "Rank": 61,
+          "Restaurant": "Keens Steakhouse",
+          "Sales": 15629700,
+          "State": "N.Y."
+        },
+        {
+          "Average Check": 43,
+          "City": "Cape May",
+          "Meals Served": 320000,
+          "Rank": 62,
+          "Restaurant": "The Lobster House",
+          "Sales": 15450000,
+          "State": "N.J."
+        },
+        {
+          "Average Check": 54,
+          "City": "San Francisco",
+          "Meals Served": "3e+05",
+          "Rank": 63,
+          "Restaurant": "China Live",
+          "Sales": 15106280,
+          "State": "Calif."
+        },
+        {
+          "Average Check": 130,
+          "City": "Chicago",
+          "Meals Served": 116154,
+          "Rank": 64,
+          "Restaurant": "Prime & Provisions",
+          "Sales": 15100000,
+          "State": "Ill."
+        },
+        {
+          "Average Check": 45,
+          "City": "Las Vegas",
+          "Meals Served": 176221,
+          "Rank": 65,
+          "Restaurant": "Carmine's (Las Vegas)",
+          "Sales": 15067804,
+          "State": "Nev."
+        },
+        {
+          "Average Check": 78,
+          "City": "Miami",
+          "Meals Served": 225000,
+          "Rank": 66,
+          "Restaurant": "Swan",
+          "Sales": "1.5e+07",
+          "State": "Fla."
+        },
+        {
+          "Average Check": 69,
+          "City": "Fort Lauderdale",
+          "Meals Served": 356000,
+          "Rank": 67,
+          "Restaurant": "15th Street Fisheries",
+          "Sales": 14978103,
+          "State": "Fla. "
+        },
+        {
+          "Average Check": 57,
+          "City": "Atlanta",
+          "Meals Served": 274000,
+          "Rank": 68,
+          "Restaurant": "Atlanta Fish Market",
+          "Sales": 14972300,
+          "State": "Ga."
+        },
+        {
+          "Average Check": 22,
+          "City": "Nashville",
+          "Meals Served": 527130,
+          "Rank": 69,
+          "Restaurant": "Acme Feed & Seed",
+          "Sales": 14897125,
+          "State": "Tenn."
+        },
+        {
+          "Average Check": 80,
+          "City": "Chicago",
+          "Meals Served": 190616,
+          "Rank": 70,
+          "Restaurant": "Hugo's Frog Bar & Fish House",
+          "Sales": 14790123,
+          "State": "Ill."
+        },
+        {
+          "Average Check": 40,
+          "City": "San Francisco",
+          "Meals Served": 199901,
+          "Rank": 71,
+          "Restaurant": "Cliff House",
+          "Sales": 14465847,
+          "State": "Calif."
+        },
+        {
+          "Average Check": 60,
+          "City": "Burbank",
+          "Meals Served": 180320,
+          "Rank": 72,
+          "Restaurant": "Castaway Burbank",
+          "Sales": 14407413,
+          "State": "Calif."
+        },
+        {
+          "Average Check": 29,
+          "City": "Austin",
+          "Meals Served": 495927,
+          "Rank": 73,
+          "Restaurant": "Matt's El Rancho",
+          "Sales": 14381904,
+          "State": "Texas"
+        },
+        {
+          "Average Check": 37,
+          "City": "Denver",
+          "Meals Served": 553378,
+          "Rank": 74,
+          "Restaurant": "Timberline Steaks and Grille",
+          "Sales": 14362103,
+          "State": "Colo."
+        },
+        {
+          "Average Check": 99,
+          "City": "Las Vegas",
+          "Meals Served": 150000,
+          "Rank": 75,
+          "Restaurant": "Beauty & Essex (Las Vegas)",
+          "Sales": 14130500,
+          "State": "Nev."
+        },
+        {
+          "Average Check": 39,
+          "City": "Atlantic City",
+          "Meals Served": 129630,
+          "Rank": 76,
+          "Restaurant": "Carmine's (Atlantic City)",
+          "Sales": 13987843,
+          "State": "N.J."
+        },
+        {
+          "Average Check": 23,
+          "City": "New York",
+          "Meals Served": 359000,
+          "Rank": 77,
+          "Restaurant": "Junior's (Brooklyn)",
+          "Sales": 13908292,
+          "State": "N.Y."
+        },
+        {
+          "Average Check": 32,
+          "City": "Chicago",
+          "Meals Served": 394582,
+          "Rank": 78,
+          "Restaurant": "Quartino Ristorante & Wine Bar",
+          "Sales": 13854856,
+          "State": "Ill."
+        },
+        {
+          "Average Check": 39,
+          "City": "Malibu",
+          "Meals Served": 312050,
+          "Rank": 79,
+          "Restaurant": "Paradise Cove Beach Cafe",
+          "Sales": 13654113,
+          "State": "Calif."
+        },
+        {
+          "Average Check": 110,
+          "City": "West Hollywood",
+          "Meals Served": 123204,
+          "Rank": 80,
+          "Restaurant": "BOA Steakhouse ",
+          "Sales": 13552485,
+          "State": "Calif."
+        },
+        {
+          "Average Check": 45,
+          "City": "San Francisco",
+          "Meals Served": 267533,
+          "Rank": 81,
+          "Restaurant": "Original Joe's",
+          "Sales": 13177468,
+          "State": "Calif."
+        },
+        {
+          "Average Check": 13102742,
+          "City": 38,
+          "Meals Served": "Va.",
+          "Rank": 82,
+          "Restaurant": "Founding Farmers (McLean",
+          "Sales": "Va.)",
+          "State": "McLean"
+        },
+        {
+          "Average Check": 55,
+          "City": "Chicago",
+          "Meals Served": 238182,
+          "Rank": 83,
+          "Restaurant": "Siena Tavern",
+          "Sales": 13100000,
+          "State": "Ill."
+        },
+        {
+          "Average Check": 82,
+          "City": "Chicago",
+          "Meals Served": 183000,
+          "Rank": 84,
+          "Restaurant": "Girl & the Goat",
+          "Sales": 12894700,
+          "State": "Ill."
+        },
+        {
+          "Average Check": 72,
+          "City": "Chicago",
+          "Meals Served": 178944,
+          "Rank": 85,
+          "Restaurant": "Tavern on Rush",
+          "Sales": 12884000,
+          "State": "Ill."
+        },
+        {
+          "Average Check": 66,
+          "City": "Indianapolis",
+          "Meals Served": 174166,
+          "Rank": 86,
+          "Restaurant": "Harry & Izzy's Circle Centre",
+          "Sales": 12809921,
+          "State": "Ind."
+        },
+        {
+          "Average Check": 65,
+          "City": "San Francisco",
+          "Meals Served": 292000,
+          "Rank": 87,
+          "Restaurant": "Scoma's",
+          "Sales": 12713394,
+          "State": "Calif."
+        },
+        {
+          "Average Check": 37,
+          "City": "Washington",
+          "Meals Served": 371025,
+          "Rank": 88,
+          "Restaurant": "Farmers Fishers Bakers",
+          "Sales": 12572109,
+          "State": "D.C."
+        },
+        {
+          "Average Check": 39,
+          "City": "Nashville",
+          "Meals Served": 337920,
+          "Rank": 89,
+          "Restaurant": "Southern Steak & Oyster",
+          "Sales": 12566618,
+          "State": "Tenn."
+        },
+        {
+          "Average Check": 24,
+          "City": "Amarillo",
+          "Meals Served": 478000,
+          "Rank": 90,
+          "Restaurant": "Big Texan Steak Ranch",
+          "Sales": 12505200,
+          "State": "Texas"
+        },
+        {
+          "Average Check": "Spring)",
+          "City": 12498000,
+          "Meals Served": "New York",
+          "Rank": 91,
+          "Restaurant": "Park Avenue Summer (Autumn",
+          "Sales": "Winter",
+          "State": 84
+        },
+        {
+          "Average Check": 36,
+          "City": "Washington",
+          "Meals Served": 375309,
+          "Rank": 92,
+          "Restaurant": "Farmers & Distillers",
+          "Sales": 12278839,
+          "State": "D.C."
+        },
+        {
+          "Average Check": 31,
+          "City": "New York",
+          "Meals Served": 251800,
+          "Rank": 93,
+          "Restaurant": "Virgil's Real Barbecue",
+          "Sales": 12245998,
+          "State": "N.Y."
+        },
+        {
+          "Average Check": 12228168,
+          "City": 39,
+          "Meals Served": "D.C.",
+          "Rank": 94,
+          "Restaurant": "Carmine's (Washington",
+          "Sales": "D.C.)",
+          "State": "Washington"
+        },
+        {
+          "Average Check": 59,
+          "City": "San Francisco",
+          "Meals Served": 240000,
+          "Rank": 95,
+          "Restaurant": "Franciscan Crab Restaurant",
+          "Sales": 12218147,
+          "State": "Calif."
+        },
+        {
+          "Average Check": 80,
+          "City": "La Jolla",
+          "Meals Served": 250000,
+          "Rank": 96,
+          "Restaurant": "George's at the Cove",
+          "Sales": 12194000,
+          "State": "Calif."
+        },
+        {
+          "Average Check": 95,
+          "City": "New York",
+          "Meals Served": 87070,
+          "Rank": 97,
+          "Restaurant": "Le Coucou",
+          "Sales": 12187523,
+          "State": "N.Y."
+        },
+        {
+          "Average Check": 38,
+          "City": "Washington",
+          "Meals Served": 226226,
+          "Rank": 98,
+          "Restaurant": "Mi Vida",
+          "Sales": 12032014,
+          "State": "D.C."
+        },
+        {
+          "Average Check": 52,
+          "City": "New York",
+          "Meals Served": 171825,
+          "Rank": 99,
+          "Restaurant": "Upland",
+          "Sales": 11965564,
+          "State": "N.Y."
+        },
+        {
+          "Average Check": 27,
+          "City": "Las Vegas",
+          "Meals Served": 208276,
+          "Rank": 100,
+          "Restaurant": "Virgil's Real Barbecue",
+          "Sales": 11391678,
+          "State": "Nev."
+        }
+      ],
+      "rowsCount": 100,
+      "uploadedAt": "2026-08-18 13:57:50"
+    },
+    {
+      "colsCount": 4,
+      "columns": [
+        "Month",
+        "Sales_Lakhs",
+        "Units",
+        "Region"
+      ],
+      "dataQualityScore": 100,
+      "id": "test_ds_01",
+      "name": "q1_q3_actuals.csv",
+      "rows": [
+        {
+          "Month": "Q1 2026",
+          "Region": "South",
+          "Sales_Lakhs": 45.2,
+          "Units": 1200
+        },
+        {
+          "Month": "Q2 2026",
+          "Region": "South",
+          "Sales_Lakhs": 58.6,
+          "Units": 1450
+        },
+        {
+          "Month": "Q3 2026",
+          "Region": "North",
+          "Sales_Lakhs": 62.1,
+          "Units": 1600
+        }
+      ],
+      "rowsCount": 3,
+      "uploadedAt": "2026-08-18 12:40:35"
+    },
+    {
+      "colsCount": 10,
+      "columns": [
+        "Month",
+        "ARR_kUSD",
+        "MRR_kUSD",
+        "Active_Subscribers",
+        "New_Customers",
+        "Churn_Rate_Pct",
+        "CAC_USD",
+        "LTV_USD",
+        "Net_Retention_Pct",
+        "Region"
+      ],
+      "dataQualityScore": 100,
+      "id": "custom_1787035857128",
+      "name": "enterprise_saas_test_dataset.csv",
+      "rows": [
+        {
+          "ARR_kUSD": 3200,
+          "Active_Subscribers": 1420,
+          "CAC_USD": 450,
+          "Churn_Rate_Pct": 2.1,
+          "LTV_USD": 5800,
+          "MRR_kUSD": 266.6,
+          "Month": "Jan 2025",
+          "Net_Retention_Pct": 112,
+          "New_Customers": 120,
+          "Region": "North America"
+        },
+        {
+          "ARR_kUSD": 3340,
+          "Active_Subscribers": 1485,
+          "CAC_USD": 440,
+          "Churn_Rate_Pct": 1.9,
+          "LTV_USD": 5920,
+          "MRR_kUSD": 278.3,
+          "Month": "Feb 2025",
+          "Net_Retention_Pct": 114,
+          "New_Customers": 135,
+          "Region": "North America"
+        },
+        {
+          "ARR_kUSD": 3520,
+          "Active_Subscribers": 1560,
+          "CAC_USD": 465,
+          "Churn_Rate_Pct": 2.3,
+          "LTV_USD": 6050,
+          "MRR_kUSD": 293.3,
+          "Month": "Mar 2025",
+          "Net_Retention_Pct": 115,
+          "New_Customers": 150,
+          "Region": "EMEA"
+        },
+        {
+          "ARR_kUSD": 3690,
+          "Active_Subscribers": 1640,
+          "CAC_USD": 435,
+          "Churn_Rate_Pct": "2.0",
+          "LTV_USD": 6180,
+          "MRR_kUSD": 307.5,
+          "Month": "Apr 2025",
+          "Net_Retention_Pct": 116,
+          "New_Customers": 145,
+          "Region": "EMEA"
+        },
+        {
+          "ARR_kUSD": 3880,
+          "Active_Subscribers": 1725,
+          "CAC_USD": 420,
+          "Churn_Rate_Pct": 1.8,
+          "LTV_USD": 6300,
+          "MRR_kUSD": 323.3,
+          "Month": "May 2025",
+          "Net_Retention_Pct": 118,
+          "New_Customers": 160,
+          "Region": "APAC"
+        },
+        {
+          "ARR_kUSD": 4050,
+          "Active_Subscribers": 1810,
+          "CAC_USD": 445,
+          "Churn_Rate_Pct": 2.2,
+          "LTV_USD": 6420,
+          "MRR_kUSD": 337.5,
+          "Month": "Jun 2025",
+          "Net_Retention_Pct": 119,
+          "New_Customers": 170,
+          "Region": "APAC"
+        },
+        {
+          "ARR_kUSD": 4210,
+          "Active_Subscribers": 1880,
+          "CAC_USD": 480,
+          "Churn_Rate_Pct": 2.5,
+          "LTV_USD": 6500,
+          "MRR_kUSD": 350.8,
+          "Month": "Jul 2025",
+          "Net_Retention_Pct": 117,
+          "New_Customers": 155,
+          "Region": "North America"
+        },
+        {
+          "ARR_kUSD": 4390,
+          "Active_Subscribers": 1960,
+          "CAC_USD": 410,
+          "Churn_Rate_Pct": 1.7,
+          "LTV_USD": 6650,
+          "MRR_kUSD": 365.8,
+          "Month": "Aug 2025",
+          "Net_Retention_Pct": 121,
+          "New_Customers": 165,
+          "Region": "North America"
+        },
+        {
+          "ARR_kUSD": 4580,
+          "Active_Subscribers": 2045,
+          "CAC_USD": 395,
+          "Churn_Rate_Pct": 1.6,
+          "LTV_USD": 6800,
+          "MRR_kUSD": 381.7,
+          "Month": "Sep 2025",
+          "Net_Retention_Pct": 123,
+          "New_Customers": 180,
+          "Region": "EMEA"
+        },
+        {
+          "ARR_kUSD": 4760,
+          "Active_Subscribers": 2130,
+          "CAC_USD": 415,
+          "Churn_Rate_Pct": 1.9,
+          "LTV_USD": 6910,
+          "MRR_kUSD": 396.6,
+          "Month": "Oct 2025",
+          "Net_Retention_Pct": 122,
+          "New_Customers": 175,
+          "Region": "EMEA"
+        },
+        {
+          "ARR_kUSD": 4980,
+          "Active_Subscribers": 2240,
+          "CAC_USD": 380,
+          "Churn_Rate_Pct": 1.5,
+          "LTV_USD": 7100,
+          "MRR_kUSD": "415.0",
+          "Month": "Nov 2025",
+          "Net_Retention_Pct": 125,
+          "New_Customers": 195,
+          "Region": "APAC"
+        },
+        {
+          "ARR_kUSD": 5240,
+          "Active_Subscribers": 2360,
+          "CAC_USD": 370,
+          "Churn_Rate_Pct": 1.4,
+          "LTV_USD": 7350,
+          "MRR_kUSD": 436.6,
+          "Month": "Dec 2025",
+          "Net_Retention_Pct": 128,
+          "New_Customers": 210,
+          "Region": "APAC"
+        },
+        {
+          "ARR_kUSD": 5450,
+          "Active_Subscribers": 2450,
+          "CAC_USD": 405,
+          "Churn_Rate_Pct": 1.8,
+          "LTV_USD": 7480,
+          "MRR_kUSD": 454.1,
+          "Month": "Jan 2026",
+          "Net_Retention_Pct": 126,
+          "New_Customers": 185,
+          "Region": "North America"
+        },
+        {
+          "ARR_kUSD": 5680,
+          "Active_Subscribers": 2555,
+          "CAC_USD": 390,
+          "Churn_Rate_Pct": 1.6,
+          "LTV_USD": 7620,
+          "MRR_kUSD": 473.3,
+          "Month": "Feb 2026",
+          "Net_Retention_Pct": 127,
+          "New_Customers": 205,
+          "Region": "North America"
+        },
+        {
+          "ARR_kUSD": 5920,
+          "Active_Subscribers": 2670,
+          "CAC_USD": 385,
+          "Churn_Rate_Pct": 1.5,
+          "LTV_USD": 7800,
+          "MRR_kUSD": 493.3,
+          "Month": "Mar 2026",
+          "Net_Retention_Pct": 129,
+          "New_Customers": 220,
+          "Region": "EMEA"
+        },
+        {
+          "ARR_kUSD": 6180,
+          "Active_Subscribers": 2790,
+          "CAC_USD": 365,
+          "Churn_Rate_Pct": 1.3,
+          "LTV_USD": 7950,
+          "MRR_kUSD": "515.0",
+          "Month": "Apr 2026",
+          "Net_Retention_Pct": 131,
+          "New_Customers": 230,
+          "Region": "EMEA"
+        },
+        {
+          "ARR_kUSD": 6420,
+          "Active_Subscribers": 2900,
+          "CAC_USD": 375,
+          "Churn_Rate_Pct": 1.4,
+          "LTV_USD": 8120,
+          "MRR_kUSD": "535.0",
+          "Month": "May 2026",
+          "Net_Retention_Pct": 130,
+          "New_Customers": 225,
+          "Region": "APAC"
+        },
+        {
+          "ARR_kUSD": 6700,
+          "Active_Subscribers": 3030,
+          "CAC_USD": 350,
+          "Churn_Rate_Pct": 1.2,
+          "LTV_USD": 8300,
+          "MRR_kUSD": 558.3,
+          "Month": "Jun 2026",
+          "Net_Retention_Pct": 133,
+          "New_Customers": 245,
+          "Region": "APAC"
+        },
+        {
+          "ARR_kUSD": 6950,
+          "Active_Subscribers": 3150,
+          "CAC_USD": 380,
+          "Churn_Rate_Pct": 1.5,
+          "LTV_USD": 8450,
+          "MRR_kUSD": 579.1,
+          "Month": "Jul 2026",
+          "Net_Retention_Pct": 132,
+          "New_Customers": 235,
+          "Region": "North America"
+        },
+        {
+          "ARR_kUSD": 7210,
+          "Active_Subscribers": 3280,
+          "CAC_USD": 360,
+          "Churn_Rate_Pct": 1.3,
+          "LTV_USD": 8620,
+          "MRR_kUSD": 600.8,
+          "Month": "Aug 2026",
+          "Net_Retention_Pct": 134,
+          "New_Customers": 250,
+          "Region": "North America"
+        },
+        {
+          "ARR_kUSD": 7500,
+          "Active_Subscribers": 3410,
+          "CAC_USD": 340,
+          "Churn_Rate_Pct": 1.1,
+          "LTV_USD": 8800,
+          "MRR_kUSD": "625.0",
+          "Month": "Sep 2026",
+          "Net_Retention_Pct": 136,
+          "New_Customers": 265,
+          "Region": "EMEA"
+        },
+        {
+          "ARR_kUSD": 7780,
+          "Active_Subscribers": 3540,
+          "CAC_USD": 355,
+          "Churn_Rate_Pct": 1.2,
+          "LTV_USD": 8980,
+          "MRR_kUSD": 648.3,
+          "Month": "Oct 2026",
+          "Net_Retention_Pct": 135,
+          "New_Customers": 260,
+          "Region": "EMEA"
+        },
+        {
+          "ARR_kUSD": 8090,
+          "Active_Subscribers": 3690,
+          "CAC_USD": 330,
+          "Churn_Rate_Pct": "1.0",
+          "LTV_USD": 9200,
+          "MRR_kUSD": 674.1,
+          "Month": "Nov 2026",
+          "Net_Retention_Pct": 138,
+          "New_Customers": 280,
+          "Region": "APAC"
+        },
+        {
+          "ARR_kUSD": 8450,
+          "Active_Subscribers": 3850,
+          "CAC_USD": 315,
+          "Churn_Rate_Pct": 0.9,
+          "LTV_USD": 9450,
+          "MRR_kUSD": 704.1,
+          "Month": "Dec 2026",
+          "Net_Retention_Pct": 140,
+          "New_Customers": 300,
+          "Region": "APAC"
+        }
+      ],
+      "rowsCount": 24,
+      "uploadedAt": "2026-08-18 12:20:58"
+    }
+  ],
+  "inventory": [
+    {
+      "category": "Textiles",
+      "daily_sales": 2.1,
+      "lead_time_days": 10,
+      "name": "Cotton Sarees",
+      "selling_price": 750,
+      "sku": "TXT-CS-014",
+      "stock": 38,
+      "unit_cost": 450
+    },
+    {
+      "category": "Electronics",
+      "daily_sales": 6.5,
+      "lead_time_days": 5,
+      "name": "LED Bulbs (9W)",
+      "selling_price": 120,
+      "sku": "ELE-LB-009",
+      "stock": 210,
+      "unit_cost": 65
+    },
+    {
+      "category": "Groceries",
+      "daily_sales": 3.4,
+      "lead_time_days": 7,
+      "name": "Rice — 25kg bag",
+      "selling_price": 1350,
+      "sku": "GRO-RC-025",
+      "stock": 14,
+      "unit_cost": 1100
+    },
+    {
+      "category": "Stationery",
+      "daily_sales": 5.2,
+      "lead_time_days": 12,
+      "name": "School Notebooks",
+      "selling_price": 45,
+      "sku": "STA-NB-200",
+      "stock": 480,
+      "unit_cost": 25
+    },
+    {
+      "category": "Home Goods",
+      "daily_sales": 0.8,
+      "lead_time_days": 15,
+      "name": "Steel Utensil Set",
+      "selling_price": 1400,
+      "sku": "HOM-SU-006",
+      "stock": 22,
+      "unit_cost": 850
+    },
+    {
+      "category": "Textiles",
+      "daily_sales": 3.0,
+      "lead_time_days": 8,
+      "name": "Silk Blend Kurtis",
+      "selling_price": 699,
+      "sku": "TXT-SK-032",
+      "stock": 55,
+      "unit_cost": 380
+    },
+    {
+      "category": "Groceries",
+      "daily_sales": 2.8,
+      "lead_time_days": 4,
+      "name": "Cooking Oil 5L Can",
+      "selling_price": 720,
+      "sku": "GRO-CO-005",
+      "stock": 8,
+      "unit_cost": 620
+    }
+  ],
+  "last_sync": "2026-08-18T13:58:20.456042",
+  "reviews": [
+    {
+      "date": "2026-08-10",
+      "source": "Google Review",
+      "text": "Saree quality romba nalla, super color and finish."
+    },
+    {
+      "date": "2026-08-11",
+      "source": "WhatsApp Feedback",
+      "text": "Delivery was 4 days late, very frustrating experience."
+    },
+    {
+      "date": "2026-08-12",
+      "source": "Google Review",
+      "text": "LED bulbs working perfectly, good price for the quality."
+    },
+    {
+      "date": "2026-08-13",
+      "source": "Direct Message",
+      "text": "Item vantha packaging mosam ah irundhuchu, box damaged."
+    },
+    {
+      "date": "2026-08-14",
+      "source": "Store Walk-in",
+      "text": "Staff mikka friendly and helped me pick the right size."
+    },
+    {
+      "date": "2026-08-14",
+      "source": "Google Review",
+      "text": "Notebooks paper quality is average, not great not bad."
+    },
+    {
+      "date": "2026-08-15",
+      "source": "Google Review",
+      "text": "Worst experience — wrong item sent and no refund yet."
+    },
+    {
+      "date": "2026-08-15",
+      "source": "WhatsApp Feedback",
+      "text": "Rice quality super, will order again next month."
+    },
+    {
+      "date": "2026-08-16",
+      "source": "Google Review",
+      "text": "Price konjam adhigama irukku but service is fast and reliable."
+    },
+    {
+      "date": "2026-08-16",
+      "source": "Direct Message",
+      "text": "Utensils looked nice in photo but real quality is poor."
+    },
+    {
+      "date": "2026-08-17",
+      "source": "Google Review",
+      "text": "Bohot badhiya service aur fast delivery hai! Highly recommended."
+    },
+    {
+      "date": "2026-08-17",
+      "source": "Store Walk-in",
+      "text": "Saman bahut accha hai, pricing bhi reasonable hai."
+    }
+  ],
+  "sales_history": [
+    182.0,
+    246.0,
+    268.0,
+    195.0,
+    231.0,
+    176.0,
+    168.0,
+    172.0,
+    179.0,
+    188.0,
+    196.0,
+    205.0
+  ],
+  "sales_months": [
+    "Sep'25",
+    "Oct'25",
+    "Nov'25",
+    "Dec'25",
+    "Jan'26",
+    "Feb'26",
+    "Mar'26",
+    "Apr'26",
+    "May'26",
+    "Jun'26",
+    "Jul'26",
+    "Aug'26"
+  ],
+  "use_mock_data": false,
+  "whatsapp_automation": {
+    "cooldown_minutes": 360,
+    "enabled": true,
+    "notify_critical_only": false,
+    "provider": "simulator",
+    "provider_config": {
+      "api_key": "",
+      "sender_number": "+14155238886",
+      "webhook_url": ""
+    },
+    "rate_limit_hourly": 10,
+    "recipient_name": "Chinnu (Owner)",
+    "recipient_phone": "+91 98765 43210",
+    "rules": [
+      {
+        "auto_send": true,
+        "description": "Trigger alert when stock days left falls below 5 days",
+        "enabled": true,
+        "event_type": "stockout_risk",
+        "id": "rule-1",
+        "metric": "days_left",
+        "name": "Critical Stockout Warning",
+        "operator": "<",
+        "threshold": 5,
+        "urgency": "critical"
+      },
+      {
+        "auto_send": true,
+        "description": "Notify when customer positive review ratio drops below 50%",
+        "enabled": true,
+        "event_type": "sentiment_dip",
+        "id": "rule-2",
+        "metric": "positive_pct",
+        "name": "Customer Satisfaction Alert",
+        "operator": "<",
+        "threshold": 50,
+        "urgency": "high"
+      },
+      {
+        "auto_send": true,
+        "description": "Alert when forecast projects >8% decline next month",
+        "enabled": true,
+        "event_type": "sales_drop",
+        "id": "rule-3",
+        "metric": "next_period_pct_change",
+        "name": "Sales Drop Anomaly",
+        "operator": "<",
+        "threshold": -8,
+        "urgency": "medium"
+      },
+      {
+        "auto_send": true,
+        "description": "Send daily telemetry snapshot every morning at 09:00 AM",
+        "enabled": true,
+        "event_type": "daily_summary",
+        "id": "rule-4",
+        "metric": "schedule",
+        "name": "Daily Executive Summary Briefing",
+        "operator": "==",
+        "threshold": "09:00",
+        "urgency": "info"
+      },
+      {
+        "auto_send": true,
+        "description": "User-defined automated rule",
+        "enabled": true,
+        "event_type": "custom_metric",
+        "id": "rule-8f45d2",
+        "metric": "margin_pct",
+        "name": "Custom Margin Warning",
+        "operator": "<",
+        "threshold": 30,
+        "urgency": "medium"
+      }
+    ],
+    "scheduled_alerts": [
+      {
+        "enabled": true,
+        "event_type": "daily_summary",
+        "frequency": "Daily",
+        "id": "sched-1",
+        "last_run": "Today at 09:00 AM",
+        "name": "Morning Executive Briefing",
+        "time": "09:00 AM"
+      },
+      {
+        "enabled": true,
+        "event_type": "stockout_risk",
+        "frequency": "Daily",
+        "id": "sched-2",
+        "last_run": "Today at 06:00 PM",
+        "name": "Evening Stock Reorder Scan",
+        "time": "06:00 PM"
+      }
+    ],
+    "stats": {
+      "failed_sent": 0,
+      "pending_count": 0,
+      "successful_sent": 4,
+      "total_sent": 4
+    }
+  },
+  "whatsapp_log": [
+    {
+      "channel": "WhatsApp (Automated Bot)",
+      "event_type": "daily_summary",
+      "id": "alert-83abcf87",
+      "message": "📊 *Vyapaar Pulse Daily Executive Briefing*\n\nHello *Chinnu*! Here is your daily operational telemetry:\n\n• Business Health Score: *47/100* (Attention Required)\n• 3-Month Projected Revenue: *₹183.9k*\n• Inventory Stockout Triggers: *2 item(s) need reorder*\n• Customer Sentiment: *50.0% Positive* (NPS Estimate: +8)\n\n💡 *AI Recommendation:* Address packaging & delivery complaints and issue vendor purchase orders for low stock SKUs.\n\n🏢 _Chinnu Textiles & Handlooms · Automated Intelligence Dispatch · 18 Aug 2026, 01:05 PM_",
+      "phone": "+91 98765 43210",
+      "status": "delivered",
+      "timestamp": "2026-08-18T13:05:44",
+      "title": "📊 Daily Business Intelligence Briefing",
+      "to": "Chinnu (+91 98765 43210)",
+      "type": "daily_summary",
+      "urgency": "info"
+    },
+    {
+      "channel": "WhatsApp (Automated Bot)",
+      "event_type": "test_connection",
+      "id": "alert-8eefe01b",
+      "message": "✅ *Vyapaar Pulse — WhatsApp Connection Verified*\n\nHello *Chinnu*,\nYour WhatsApp automated alert gateway is *active and verified*.\n\n• Recipient: *+91 98765 43210*\n• Encryption: *End-to-End Secure*\n• Automated Triggers: *Stockout Risks, NPS Dips & Daily Briefings*\n\n🎉 You are ready to receive live AI business intelligence alerts.\n\n🏢 _Chinnu Textiles & Handlooms · 18 Aug 2026, 01:05 PM_",
+      "phone": "+91 98765 43210",
+      "status": "delivered",
+      "timestamp": "2026-08-18T13:05:31",
+      "title": "✅ WhatsApp Automation Gateway Connected",
+      "to": "Chinnu (+91 98765 43210)",
+      "type": "system",
+      "urgency": "info"
+    },
+    {
+      "channel": "WhatsApp (Automated Bot)",
+      "event_type": "stockout_risk",
+      "id": "alert-e6d5d8e7",
+      "message": "🚨 *Critical Stockout Alert*\n\nHello *Chinnu*,\nUrgent inventory attention required for your business:\n\n• Product: *Silk Sarees Premium* (`SAR-001`)\n• Stock Remaining: *2 units* (1 days left)\n• Stockout Probability: *98.0%*\n• Recommended Reorder: *15 units* (EOQ: 20 units)\n\n⚡ *Recommended Action:* Place an emergency purchase order immediately to avoid weekend revenue loss.\n\n🏢 _Chinnu Textiles & Handlooms · Vyapaar Pulse Automated Decision Engine · 18 Aug 2026, 01:05 PM_",
+      "phone": "+91 98765 43210",
+      "status": "delivered",
+      "timestamp": "2026-08-18T13:05:27",
+      "title": "🚨 Critical Stockout Alert: Silk Sarees Premium",
+      "to": "Chinnu (+91 98765 43210)",
+      "type": "stockout_risk",
+      "urgency": "critical"
+    },
+    {
+      "channel": "WhatsApp (Automated Bot)",
+      "event_type": "scheme_guide",
+      "id": "alert-c1001e8a",
+      "message": "Namaste Chinnu Ji! Here is your tailored MSME Government Subsidy Brief:\n\n📌 Scheme: PMEGP — Prime Minister's Employment Generation Programme\n🏛️ Authority: KVIC / Ministry of MSME, Govt of India\n💰 Max Benefit: Up to 35.0% Capital Subsidy (Zero Collateral (Covered under CGTMSE))\n📄 Key Documents: Udyam Aadhaar Certificate, Detailed Project Report (DPR), Aadhaar & PAN Cards\n🌐 Apply Online: https://kviconline.gov.in/pmegpeportal\n\nEmpowering Chinnu Textiles & Handlooms via Vyapaar Pulse AI.",
+      "phone": "+91 98765 43210",
+      "status": "delivered",
+      "timestamp": "2026-08-18T13:04:43",
+      "title": "🏛️ Government Subsidy Guide: PMEGP",
+      "to": "Chinnu (+91 98765 43210)",
+      "type": "scheme_guide",
+      "urgency": "info"
+    },
+    {
+      "channel": "WhatsApp (Automated Bot)",
+      "event_type": "scheme_guide",
+      "id": "alert-64bac727",
+      "message": "Namaste Chinnu Ji! Here is your tailored MSME Government Subsidy Brief:\n\n📌 Scheme: PMEGP — Prime Minister's Employment Generation Programme\n🏛️ Authority: KVIC / Ministry of MSME, Govt of India\n💰 Max Benefit: Up to 35.0% Capital Subsidy (Zero Collateral (Covered under CGTMSE))\n📄 Key Documents: Udyam Aadhaar Certificate, Detailed Project Report (DPR), Aadhaar & PAN Cards\n🌐 Apply Online: https://kviconline.gov.in/pmegpeportal\n\nEmpowering Chinnu Textiles & Handlooms via Vyapaar Pulse AI.",
+      "phone": "+91 98765 43210",
+      "status": "delivered",
+      "timestamp": "2026-08-18T13:03:34",
+      "title": "🏛️ Government Subsidy Guide: PMEGP",
+      "to": "Chinnu (+91 98765 43210)",
+      "type": "scheme_guide",
+      "urgency": "info"
+    },
+    {
+      "channel": "WhatsApp (Automated Bot)",
+      "event_type": "daily_summary",
+      "id": "alert-710634c8",
+      "message": "📊 *Vyapaar Pulse Daily Executive Briefing*\n\nHello *Chinnu*! Here is your daily operational telemetry:\n\n• Business Health Score: *47/100* (Attention Required)\n• 3-Month Projected Revenue: *₹183.9k*\n• Inventory Stockout Triggers: *2 item(s) need reorder*\n• Customer Sentiment: *50.0% Positive* (NPS Estimate: +8)\n\n💡 *AI Recommendation:* Address packaging & delivery complaints and issue vendor purchase orders for low stock SKUs.\n\n🏢 _Chinnu Textiles & Home Store · Automated Intelligence Dispatch · 18 Aug 2026, 12:41 PM_",
+      "phone": "+91 98765 43210",
+      "status": "delivered",
+      "timestamp": "2026-08-18T12:41:03",
+      "title": "📊 Daily Business Intelligence Briefing",
+      "to": "Chinnu (+91 98765 43210)",
+      "type": "daily_summary",
+      "urgency": "info"
+    },
+    {
+      "channel": "WhatsApp (Automated Bot)",
+      "event_type": "test_connection",
+      "id": "alert-8dfc29e0",
+      "message": "✅ *Vyapaar Pulse — WhatsApp Connection Verified*\n\nHello *Chinnu*,\nYour WhatsApp automated alert gateway is *active and verified*.\n\n• Recipient: *+91 98765 43210*\n• Encryption: *End-to-End Secure*\n• Automated Triggers: *Stockout Risks, NPS Dips & Daily Briefings*\n\n🎉 You are ready to receive live AI business intelligence alerts.\n\n🏢 _Chinnu Textiles & Home Store · 18 Aug 2026, 12:40 PM_",
+      "phone": "+91 98765 43210",
+      "status": "delivered",
+      "timestamp": "2026-08-18T12:40:53",
+      "title": "✅ WhatsApp Automation Gateway Connected",
+      "to": "Chinnu (+91 98765 43210)",
+      "type": "system",
+      "urgency": "info"
+    },
+    {
+      "channel": "WhatsApp (Automated Bot)",
+      "event_type": "stockout_risk",
+      "id": "alert-ba9ae625",
+      "message": "🚨 *Critical Stockout Alert*\n\nHello *Chinnu*,\nUrgent inventory attention required for your business:\n\n• Product: *Silk Sarees Premium* (`SAR-001`)\n• Stock Remaining: *2 units* (1 days left)\n• Stockout Probability: *98.0%*\n• Recommended Reorder: *15 units* (EOQ: 20 units)\n\n⚡ *Recommended Action:* Place an emergency purchase order immediately to avoid weekend revenue loss.\n\n🏢 _Chinnu Textiles & Home Store · Vyapaar Pulse Automated Decision Engine · 18 Aug 2026, 12:40 PM_",
+      "phone": "+91 98765 43210",
+      "status": "delivered",
+      "timestamp": "2026-08-18T12:40:49",
+      "title": "🚨 Critical Stockout Alert: Silk Sarees Premium",
+      "to": "Chinnu (+91 98765 43210)",
+      "type": "stockout_risk",
+      "urgency": "critical"
+    },
+    {
+      "channel": "WhatsApp (Automated Bot)",
+      "event_type": "sales_drop",
+      "id": "alert-a7aa2d10",
+      "item_key": "sales_forecast",
+      "message": "📉 *Sales Forecast Warning*\n\n• Projected Decline: *-10.3%* next month\n• Estimated Monthly Revenue: *₹183.9k*\n\n💡 *Action:* Launch a targeted WhatsApp promotional broadcast with 15% discount to your top 100 regular buyers.\n\n🏢 _Chinnu Textiles & Home Store · 18 Aug 2026, 12:19 PM_",
+      "phone": "+91 98765 43210",
+      "status": "delivered",
+      "timestamp": "2026-08-18T12:19:18",
+      "title": "📉 Sales Velocity Drop Warning",
+      "to": "Chinnu (+91 98765 43210)",
+      "trigger_rule_id": "rule-3",
+      "urgency": "medium"
+    },
+    {
+      "channel": "WhatsApp (Automated Bot)",
+      "event_type": "stockout_risk",
+      "id": "alert-b667f863",
+      "item_key": "GRO-CO-005",
+      "message": "🚨 *Critical Stockout Alert*\n\nHello *Chinnu*,\nUrgent inventory attention required for your business:\n\n• Product: *Cooking Oil 5L Can* (`GRO-CO-005`)\n• Stock Remaining: *8 units* (2.9 days left)\n• Stockout Probability: *71.4%*\n• Recommended Reorder: *11.2 units* (EOQ: 91 units)\n\n⚡ *Recommended Action:* Place an emergency purchase order immediately to avoid weekend revenue loss.\n\n🏢 _Chinnu Textiles & Home Store · Vyapaar Pulse Automated Decision Engine · 18 Aug 2026, 12:19 PM_",
+      "phone": "+91 98765 43210",
+      "status": "delivered",
+      "timestamp": "2026-08-18T12:19:18",
+      "title": "🚨 Critical Stockout Alert: Cooking Oil 5L Can",
+      "to": "Chinnu (+91 98765 43210)",
+      "trigger_rule_id": "rule-1",
+      "urgency": "critical"
+    },
+    {
+      "channel": "WhatsApp (Automated Bot)",
+      "event_type": "stockout_risk",
+      "id": "alert-30270987",
+      "item_key": "GRO-RC-025",
+      "message": "🚨 *Critical Stockout Alert*\n\nHello *Chinnu*,\nUrgent inventory attention required for your business:\n\n• Product: *Rice — 25kg bag* (`GRO-RC-025`)\n• Stock Remaining: *14 units* (4.1 days left)\n• Stockout Probability: *76.5%*\n• Recommended Reorder: *23.8 units* (EOQ: 75 units)\n\n⚡ *Recommended Action:* Place an emergency purchase order immediately to avoid weekend revenue loss.\n\n🏢 _Chinnu Textiles & Home Store · Vyapaar Pulse Automated Decision Engine · 18 Aug 2026, 12:19 PM_",
+      "phone": "+91 98765 43210",
+      "status": "delivered",
+      "timestamp": "2026-08-18T12:19:18",
+      "title": "🚨 Critical Stockout Alert: Rice — 25kg bag",
+      "to": "Chinnu (+91 98765 43210)",
+      "trigger_rule_id": "rule-1",
+      "urgency": "critical"
+    },
+    {
+      "channel": "WhatsApp (Automated Bot)",
+      "event_type": "test_connection",
+      "id": "alert-eed94a3e",
+      "message": "✅ *Vyapaar Pulse — WhatsApp Connection Verified*\n\nHello *Chinnu*,\nYour WhatsApp automated alert gateway is *active and verified*.\n\n• Recipient: *+91 98765 43210*\n• Encryption: *End-to-End Secure*\n• Automated Triggers: *Stockout Risks, NPS Dips & Daily Briefings*\n\n🎉 You are ready to receive live AI business intelligence alerts.\n\n🏢 _Chinnu Textiles & Home Store · 18 Aug 2026, 12:19 PM_",
+      "phone": "+91 98765 43210",
+      "status": "delivered",
+      "timestamp": "2026-08-18T12:19:09",
+      "title": "✅ WhatsApp Automation Gateway Connected",
+      "to": "Chinnu (+91 98765 43210)",
+      "type": "system",
+      "urgency": "info"
+    },
+    {
+      "channel": "WhatsApp (Automated Bot)",
+      "event_type": "stockout_risk",
+      "id": "alert-59b81f6c",
+      "message": "🚨 *Critical Stockout Alert*\n\nHello *Chinnu*,\nUrgent inventory attention required for your business:\n\n• Product: *Silk Sarees Premium* (`SAR-001`)\n• Stock Remaining: *2 units* (1 days left)\n• Stockout Probability: *98.0%*\n• Recommended Reorder: *15 units* (EOQ: 20 units)\n\n⚡ *Recommended Action:* Place an emergency purchase order immediately to avoid weekend revenue loss.\n\n🏢 _Chinnu Textiles & Home Store · Vyapaar Pulse Automated Decision Engine · 18 Aug 2026, 12:19 PM_",
+      "phone": "+91 98765 43210",
+      "status": "delivered",
+      "timestamp": "2026-08-18T12:19:04",
+      "title": "🚨 Critical Stockout Alert: Silk Sarees Premium",
+      "to": "Chinnu (+91 98765 43210)",
+      "type": "stockout_risk",
+      "urgency": "critical"
+    },
+    {
+      "channel": "WhatsApp (Automated Bot)",
+      "event_type": "custom",
+      "id": "alert-952cd012",
+      "message": "Verification test alert payload.",
+      "phone": "+91 98765 43210",
+      "status": "delivered",
+      "timestamp": "2026-08-18T11:53:30",
+      "title": "Automated Verification Alert",
+      "to": "Test User",
+      "urgency": "info"
+    },
+    {
+      "channel": "WhatsApp (Automated Bot)",
+      "event_type": "test_connection",
+      "id": "alert-f2dbe6fd",
+      "message": "✅ *Vyapaar Pulse — WhatsApp Connection Verified*\n\nHello *Chinnu*,\nYour WhatsApp automated alert gateway is *active and verified*.\n\n• Recipient: *+91 98765 43210*\n• Encryption: *End-to-End Secure*\n• Automated Triggers: *Stockout Risks, NPS Dips & Daily Briefings*\n\n🎉 You are ready to receive live AI business intelligence alerts.\n\n🏢 _Chinnu Textiles & Home Store · 18 Aug 2026, 11:53 AM_",
+      "phone": "+91 98765 43210",
+      "status": "delivered",
+      "timestamp": "2026-08-18T11:53:23",
+      "title": "✅ WhatsApp Automation Gateway Connected",
+      "to": "Chinnu (+91 98765 43210)",
+      "type": "system",
+      "urgency": "info"
+    },
+    {
+      "channel": "WhatsApp (Automated Bot)",
+      "delivery_status": "delivered",
+      "event_type": "stockout_risk",
+      "id": "alert-init-1",
+      "message": "🚨 *Critical Stockout Alert*\n\nProduct: *Cooking Oil 5L Can* (GRO-CO-005)\n• Stock Remaining: *8 units* (2.9 days left)\n• Stockout Risk: *95.0%*\n• Recommended Reorder: *11 units* (EOQ: 11 units)\n\n⚡ *Recommended Action:* Contact supplier immediately to prevent weekend sales loss.",
+      "phone": "+91 98765 43210",
+      "status": "delivered",
+      "timestamp": "2026-08-18T08:30:00",
+      "title": "🚨 Critical Stockout Alert: Cooking Oil 5L Can",
+      "to": "Chinnu (Owner)",
+      "type": "inventory",
+      "urgency": "critical"
+    },
+    {
+      "channel": "WhatsApp (Automated Bot)",
+      "delivery_status": "delivered",
+      "event_type": "daily_summary",
+      "id": "alert-init-2",
+      "message": "📊 *Vyapaar Pulse Daily Briefing*\n\n• Health Score: *47/100* (Attention Required)\n• 3M Projected Sales: *₹196.6k*\n• Inventory Alert: *2 items need reorder*\n• Customer Sentiment: *57.1% Positive* (NPS: +21)\n\n💡 *AI Recommendation:* Clear packaging complaints and place urgent grocery stock order.",
+      "phone": "+91 98765 43210",
+      "status": "delivered",
+      "timestamp": "2026-08-18T09:00:00",
+      "title": "📊 Daily Business Intelligence Briefing",
+      "to": "Chinnu (Owner)",
+      "type": "daily_summary",
+      "urgency": "info"
+    },
+    {
+      "channel": "WhatsApp (Automated Bot)",
+      "delivery_status": "delivered",
+      "event_type": "sentiment_dip",
+      "id": "alert-init-3",
+      "message": "⚠️ *Customer Satisfaction Alert*\n\n• Issue: *Negative delivery feedback detected*\n• Current NPS: *+21*\n• Negative Ratio: *28.6%*\n\n⚡ *Recommended Action:* Coordinate with courier partner regarding 4-day shipment delays.",
+      "phone": "+91 98765 43210",
+      "status": "delivered",
+      "timestamp": "2026-08-18T09:45:00",
+      "title": "⚠️ Customer Sentiment Alert: Delivery Complaints",
+      "to": "Chinnu (Owner)",
+      "type": "sentiment",
+      "urgency": "high"
+    },
+    {
+      "channel": "WhatsApp (Automated Bot)",
+      "delivery_status": "delivered",
+      "event_type": "sales_surge",
+      "id": "alert-init-4",
+      "message": "📈 *Festive Demand Surge Notification*\n\n• Projected Growth: *+43.7%* for Festive Season\n• Top Category: *Textiles & Sarees*\n\n💡 *Action:* Ensure buffer inventory for Cotton Sarees and Silk Kurtis is stocked.",
+      "phone": "+91 98765 43210",
+      "status": "delivered",
+      "timestamp": "2026-08-18T10:15:00",
+      "title": "📈 Festive Demand Surge Predicted",
+      "to": "Chinnu (Owner)",
+      "type": "sales",
+      "urgency": "medium"
+    }
+  ]
+}
