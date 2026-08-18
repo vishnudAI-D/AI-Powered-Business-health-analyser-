@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vyapaar Pulse — Hackathon Presentation & Pitch Deck</title>
+  <style>
+    :root {
+      --bg: #0b0f19;
+      --card-bg: rgba(22, 30, 49, 0.85);
+      --border: rgba(255, 255, 255, 0.12);
+      --primary: #06b6d4;
+      --primary-glow: rgba(6, 182, 212, 0.4);
+      --accent: #ec4899;
+      --gold: #f59e0b;
+      --text: #f3f4f6;
+      --text-muted: #9ca3af;
+      --success: #10b981;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+    body { background: var(--bg); color: var(--text); padding: 40px 20px; line-height: 1.6; }
+    .container { max-width: 1000px; margin: 0 auto; }
+    
+    header { text-align: center; margin-bottom: 50px; padding: 40px 20px; background: linear-gradient(180deg, rgba(6,182,212,0.15) 0%, transparent 100%); border-radius: 20px; border: 1px solid var(--border); }
+    h1 { font-size: 2.6rem; color: #fff; margin-bottom: 12px; }
+    h1 span { background: linear-gradient(90deg, var(--primary), var(--accent)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+    .subtitle { font-size: 1.15rem; color: var(--text-muted); max-width: 750px; margin: 0 auto; }
+    
+    .card { background: var(--card-bg); border: 1px solid var(--border); border-radius: 16px; padding: 30px; margin-bottom: 30px; box-shadow: 0 10px 30px rgba(0,0,0,0.4); backdrop-filter: blur(12px); }
+    h2 { font-size: 1.6rem; color: var(--primary); margin-bottom: 20px; display: flex; align-items: center; gap: 10px; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 10px; }
+    h3 { font-size: 1.25rem; color: #fff; margin: 20px 0 10px; }
+    
+    .hook-box { background: linear-gradient(135deg, rgba(6,182,212,0.15), rgba(236,72,153,0.15)); border-left: 4px solid var(--primary); padding: 20px 24px; border-radius: 8px; font-size: 1.1rem; font-style: italic; margin-bottom: 20px; }
+    
+    table { width: 100%; border-collapse: collapse; margin: 20px 0; font-size: 0.95rem; }
+    th, td { padding: 12px 16px; text-align: left; border: 1px solid var(--border); }
+    th { background: rgba(6,182,212,0.15); color: #fff; }
+    tr:nth-child(even) { background: rgba(255,255,255,0.02); }
+    
+    .qa-box { margin-bottom: 25px; border-left: 3px solid var(--gold); padding-left: 18px; }
+    .question { font-size: 1.1rem; font-weight: 600; color: var(--gold); margin-bottom: 6px; }
+    .answer { color: #d1d5db; font-size: 0.98rem; }
+    
+    .tag { display: inline-block; padding: 3px 10px; border-radius: 12px; font-size: 0.8rem; font-weight: 600; text-transform: uppercase; margin-right: 6px; }
+    .tag-tech { background: rgba(6,182,212,0.2); color: var(--primary); }
+    .tag-ai { background: rgba(236,72,153,0.2); color: var(--accent); }
+    
+    .badge-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 15px; margin: 20px 0; }
+    .badge-card { background: rgba(255,255,255,0.03); border: 1px solid var(--border); border-radius: 12px; padding: 16px; text-align: center; }
+    .badge-card strong { display: block; font-size: 1.1rem; color: #fff; margin-bottom: 5px; }
+    .badge-card span { font-size: 0.85rem; color: var(--text-muted); }
+    
+    .print-btn { display: inline-block; background: linear-gradient(90deg, var(--primary), var(--accent)); color: #fff; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: 600; margin-bottom: 30px; cursor: pointer; border: none; }
+    @media print {
+      body { background: #fff; color: #111; padding: 0; }
+      .card { background: #fff; border: 1px solid #ddd; box-shadow: none; color: #111; page-break-inside: avoid; }
+      h1, h2, h3, .question { color: #000 !important; }
+      .print-btn { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1><span>Vyapaar Pulse</span></h1>
+      <p class="subtitle">AI Business Health Copilot & Autonomous Multilingual Voice Assistant for 63M+ Indian MSMEs</p>
+      <div style="margin-top: 20px;">
+        <span class="tag tag-tech">Flask 3.1</span>
+        <span class="tag tag-ai">Google Gemini 2.5 Flash</span>
+        <span class="tag tag-tech">Three.js 3D WebGL</span>
+        <span class="tag tag-tech">NumPy & VADER</span>
+        <span class="tag tag-ai">Firebase RTDB</span>
+      </div>
+    </header>
+
+    <div style="text-align: right;">
+      <button class="print-btn" onclick="window.print()">🖨️ Print to PDF / Presentation Handout</button>
+    </div>
+
+    <!-- 1. EXECUTIVE PITCH -->
+    <div class="card">
+      <h2>📌 1. 30-Second Elevator Pitch</h2>
+      <div class="hook-box">
+        "Over 63 million MSMEs power 30% of India's GDP, yet more than 70% make critical inventory, pricing, and cash-flow decisions entirely on guesswork without data analysts or ERP systems. Language barriers and complex accounting tools leave them vulnerable to stockouts and cash crunches.<br><br>
+        <strong>Vyapaar Pulse</strong> is an autonomous, multilingual AI Business Health Copilot that acts as a 24/7 CFO and supply-chain consultant in the shopkeeper's native dialect—from Tamil and Hindi to Telugu and English. With a 3D WebGL spatial dashboard, real-time 'What-If' scenario simulations, ABC-XYZ inventory optimization, aspect-based sentiment intelligence, and automated WhatsApp actions, Vyapaar Pulse transforms raw business data into actionable growth in seconds."
+      </div>
+    </div>
+
+    <!-- 2. TECH STACK & ARCHITECTURE -->
+    <div class="card">
+      <h2>🛠️ 2. Technology Stack & Architecture</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Layer</th>
+            <th>Technology Used</th>
+            <th>Purpose & Rationale</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Frontend & 3D</strong></td>
+            <td>Three.js WebGL + CSS3 3D Spatial Glassmorphism</td>
+            <td>Interactive 3D particle voice orb with 4 physics states (Idle, Listening, Thinking, Speaking) + parallax physics at 60 FPS.</td>
+          </tr>
+          <tr>
+            <td><strong>Voice Processing</strong></td>
+            <td>Web Speech API (STT & Localized TTS)</td>
+            <td>Zero-latency native speech recognition and synthesis mapped to regional ISO codes (<code>ta-IN</code>, <code>hi-IN</code>, <code>te-IN</code>, <code>en-IN</code>).</td>
+          </tr>
+          <tr>
+            <td><strong>AI Agent Engine</strong></td>
+            <td>Google Gemini 2.5 Flash + Dual-Path Fallback</td>
+            <td>Autonomous multi-turn reasoning and tool/function execution with sub-second latency (&lt;400ms TTFT) and offline regex fallback.</td>
+          </tr>
+          <tr>
+            <td><strong>Analytics & Math</strong></td>
+            <td>NumPy 2.4.4 + VADER & Regional Lexicon</td>
+            <td>Blended least-squares trend regression (55/45 blend), ABC-XYZ matrix, EOQ reorder point formulas, and 5-aspect sentiment intelligence.</td>
+          </tr>
+          <tr>
+            <td><strong>Persistence</strong></td>
+            <td>Firebase Realtime DB / Firestore + Local JSON</td>
+            <td>Multi-device cloud synchronization with zero-config local storage fallback (<code>data/database.json</code>).</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- 3. CORE ALGORITHMS -->
+    <div class="card">
+      <h2>🔍 3. Core Algorithms & Formulas</h2>
+      <div class="badge-grid">
+        <div class="badge-card">
+          <strong>📊 5-Pillar Health Score</strong>
+          <span>0.25(Revenue) + 0.25(Stock) + 0.20(Sentiment) + 0.15(Working Capital) + 0.15(Subsidies)</span>
+        </div>
+        <div class="badge-card">
+          <strong>📈 Sales Forecasting</strong>
+          <span>Hybrid Least-Squares Trend (55%) + Moving Window (45%) + Dynamic Confidence Margins</span>
+        </div>
+        <div class="badge-card">
+          <strong>📦 ABC-XYZ Inventory</strong>
+          <span>Value Pareto (70/20/10%) + Demand Volatility Coefficient of Variation (CV = σ / μ)</span>
+        </div>
+        <div class="badge-card">
+          <strong>⚙️ EOQ & Reorder Point</strong>
+          <span>EOQ = √((2·D·S)/H) | ROP = (Daily Demand × Lead Time) + Safety Stock</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- 4. PITCH DECK SCRIPT -->
+    <div class="card">
+      <h2>🎤 4. Slide-by-Slide 6-Minute Pitch Script</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Time</th>
+            <th>Slide / Demo View</th>
+            <th>Spoken Script</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>0:00 - 0:45</strong></td>
+            <td><strong>Problem Hook</strong></td>
+            <td><em>"Judges, Meet Murugan. He runs a textile store in Salem doing ₹68L annually. Last Diwali, he stocked out of cotton sarees in 2 days and overstocked utensils, locking ₹3L in cash. He represents 63M MSMEs operating in the dark."</em></td>
+          </tr>
+          <tr>
+            <td><strong>0:45 - 1:45</strong></td>
+            <td><strong>3D Dashboard & Score</strong></td>
+            <td><em>"This is Vyapaar Pulse. In one glance, Murugan sees his Executive 5-Pillar Health Score: 78/100, highlighting that high lead-time inventory is dragging down working capital."</em></td>
+          </tr>
+          <tr>
+            <td><strong>1:45 - 2:45</strong></td>
+            <td><strong>Live Multilingual Voice</strong></td>
+            <td><em>(Speak in Tamil/Hindi): "Diwali season la sales epdi irukkum? Scenario simulate pannu." The Three.js orb reacts and automatically animates the festive slider to +25% boost.</em></td>
+          </tr>
+          <tr>
+            <td><strong>2:45 - 3:45</strong></td>
+            <td><strong>ABC-XYZ & Sentiment</strong></td>
+            <td><em>"Under the hood, we combine deterministic ABC-XYZ & EOQ math with 5-aspect sentiment intelligence that parses mixed Tanglish/Hinglish reviews."</em></td>
+          </tr>
+          <tr>
+            <td><strong>3:45 - 4:45</strong></td>
+            <td><strong>Subsidies & WhatsApp</strong></td>
+            <td><em>"Vyapaar Pulse identified a 25% PMEGP subsidy saving ₹1.25L and generated a localized Tamil WhatsApp promotional campaign ready to broadcast."</em></td>
+          </tr>
+          <tr>
+            <td><strong>4:45 - 6:00</strong></td>
+            <td><strong>Business Model & GTM</strong></td>
+            <td><em>"Freemium B2B SaaS at ₹499/mo + NBFC credit scoring APIs. Built with Flask, Gemini, and offline resilience. Thank you!"</em></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- 5. JUDGE Q&A -->
+    <div class="card">
+      <h2>🎯 5. Hackathon Judge Q&A Defense Sheet</h2>
+      
+      <div class="qa-box">
+        <div class="question">Q1: Why use Google Gemini 2.5 Flash over a local open-source model?</div>
+        <div class="answer"><strong>Winning Answer:</strong> We optimized for sub-second voice latency (&lt;400ms), native regional Indian dialect tokenization (Tamil, Telugu, Hindi, Tanglish), and reliable JSON tool execution at near-zero API cost. Furthermore, our dual-path architecture automatically falls back to an embedded offline regex parser if internet is unavailable.</div>
+      </div>
+
+      <div class="qa-box">
+        <div class="question">Q2: Why blended linear regression instead of an LSTM or Deep Learning model?</div>
+        <div class="answer"><strong>Winning Answer:</strong> MSME historical data is sparse (6–24 data points). Training deep neural networks or LSTMs on 12 points leads to severe overfitting. Our hybrid least-squares (55%) + moving average (45%) runs in &lt;2ms, has zero cold-start delay, and provides interpretable confidence bounds business owners can trust.</div>
+      </div>
+
+      <div class="qa-box">
+        <div class="question">Q3: Why would a shopkeeper use this instead of Tally or Excel?</div>
+        <div class="answer"><strong>Winning Answer:</strong> Tally and Excel are backward-looking accounting systems for tax compliance requiring manual entry in English. Vyapaar Pulse is a forward-looking decision copilot. Murugan simply speaks in Tamil: <em>"How many sarees should I reorder?"</em> and receives exact simulated quantities in seconds.</div>
+      </div>
+
+      <div class="qa-box">
+        <div class="question">Q4: How do you handle mixed-language reviews like Tanglish/Hinglish with English VADER?</div>
+        <div class="answer"><strong>Winning Answer:</strong> We engineered a pre-tokenization dialect normalization layer in <code>logic.py</code> that translates colloquial regional tokens (<em>"romba nalla"</em>, <em>"ekdam bekaar"</em>) into calibrated valences before feeding into our 5-aspect categorization engine (Quality, Delivery, Packaging, Price, Support).</div>
+      </div>
+
+      <div class="qa-box">
+        <div class="question">Q5: What is your monetization strategy?</div>
+        <div class="answer"><strong>Winning Answer:</strong> 3-tiered model: (1) Freemium MSME Tier at ₹499/mo, (2) Pro Merchant Tier at ₹1,499/mo with automated WhatsApp dispatch, and (3) B2B NBFC/Lender API for MSME credit-scoring to unlock faster collateral-free loans.</div>
+      </div>
+
+    </div>
+  </div>
+</body>
+</html>
